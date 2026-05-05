@@ -1,4 +1,4 @@
-const pdfUrl = 'Guia_v6.pdf'; 
+const pdfUrl = 'https://bytecomtec.com/Guia_v6.pdf'; 
 const primaryColor = '#28577a'; 
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)

@@ -1,4 +1,4 @@
-const pdfUrl = 'Guia-Ceapv6.pdf'; 
+const pdfUrl = 'Guia-CeapV6.pdf'; 
 const primaryColor = '#28577a'; 
 
 // 1. Estilos optimizados para Web (Desktop y Mobile)
